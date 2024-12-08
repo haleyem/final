@@ -2,6 +2,9 @@
     max-width: 900px;
     margin: auto;
 }
+article figure img{
+    width: 100%;
+}
 h1{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -20,3 +23,17 @@ li{
 ul{
     list-style-type: none;
 }
+.photo,
+.text,
+.sidebar{
+    float: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.photo{
+    width: 40%;
+}
+.text{
+    width: 40%;
+}
+.sidebar{
+    width: 20%;
