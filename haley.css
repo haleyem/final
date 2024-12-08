@@ -1,0 +1,15 @@
+.main container{
+    max-width: 900px;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+#footer{
+    color:#3B1B1B;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: smaller;
+    text-align: center;
+    padding-bottom: 10px;
+    border-bottom: #3B1B1B;
+}
