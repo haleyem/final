@@ -4,6 +4,7 @@
 }
 h1{
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 #footer{
     color:#3B1B1B;
@@ -12,4 +13,10 @@ h1{
     text-align: center;
     padding-bottom: 10px;
     border-bottom: #3B1B1B;
+}
+li{
+    display: inline;
+}
+ul{
+    list-style-type: none;
 }
