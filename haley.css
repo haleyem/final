@@ -25,6 +25,8 @@ li{
 ul{
     list-style-type: none;
     font-size: medium;
+    border: 2px;
+    border-color: #3B1B1B;
 }
 .photo,
 .text,
