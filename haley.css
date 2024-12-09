@@ -55,7 +55,7 @@ ul{
 .sidebar{
     width: 20%;
 }
-.foot{
+#foot{
     padding-bottom: 10px;
     display: flex;
     flex-direction: column;
