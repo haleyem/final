@@ -4,6 +4,7 @@
 }
 article figure img{
     width: 100%;
+    padding-top: 20px;
 }
 #header{
     text-align: center;
