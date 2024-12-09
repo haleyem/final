@@ -19,16 +19,21 @@ h1{
 }
 li{
     display: inline;
+    border-bottom: 1px;
+    border-color: azure;
 }
 ul{
     list-style-type: none;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
 }
 .photo,
 .text,
 .sidebar{
     float: left;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 15px;
 }
 .photo{
     width: 40%;
