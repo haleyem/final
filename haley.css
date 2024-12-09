@@ -17,6 +17,9 @@ article figure img{
     padding-bottom: 10px;
     border-bottom: #3B1B1B;
 }
+figcaption{
+    padding: 5px;
+}
 li{
     display: inline;
     border-bottom: 1px;
