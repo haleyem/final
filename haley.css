@@ -2,7 +2,12 @@
     max-width: 900px;
     margin: auto;
 }
-
+body{
+    border: 2px;
+    border-style: groove;
+    border-color: darkblue;
+}
+}
 #header{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
