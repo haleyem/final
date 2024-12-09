@@ -5,7 +5,7 @@
 article figure img{
     width: 100%;
 }
-h1{
+#header{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -24,8 +24,6 @@ li{
 }
 ul{
     list-style-type: none;
-    text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: medium;
 }
 .photo,
