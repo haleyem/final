@@ -2,15 +2,7 @@
     max-width: 900px;
     margin: auto;
 }
-body{
-    border: 2px;
-    border-style: groove;
-    border-color: darkblue;
-}
-article figure img{
-    width: 100%;
-    padding-top: 20px;
-}
+
 #header{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
