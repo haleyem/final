@@ -10,7 +10,6 @@ body{
 article figure img{
     width: 100%;
     padding-top: 20px;
-    position: relative;
 }
 #header{
     text-align: center;
