@@ -8,6 +8,7 @@ article figure img{
 #header{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 50px;
 }
 #footer{
     color:#3B1B1B;
@@ -19,6 +20,7 @@ article figure img{
 }
 figcaption{
     padding: 5px;
+    text-align: center;
 }
 li{
     display: inline;
