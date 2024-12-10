@@ -18,13 +18,17 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding-bottom: 50px;
 }
-#footer{
+.footer{
     color:#3B1B1B;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: smaller;
     text-align: center;
     padding-bottom: 10px;
     border-bottom: #3B1B1B;
+    padding-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 figcaption{
     padding: 5px;
@@ -56,10 +60,4 @@ ul{
 }
 .sidebar{
     width: 20%;
-}
-.foot{
-    padding-bottom: 10px;
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
 }
