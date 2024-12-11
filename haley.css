@@ -45,16 +45,18 @@ ul{
 .photo,
 .text,
 .sidebar{
-    float: left;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-left: 25px;
 }
 .photo{
     width: 40%;
+    float: left;
 }
 .text{
     width: 40%;
+    float: left;
 }
 .sidebar{
     width: 20%;
+    float: right;
 }
