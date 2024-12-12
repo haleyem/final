@@ -1,9 +1,7 @@
 .main container{
     max-width: 900px;
     margin: auto;
-    border: 2px;
-    border-style: groove;
-    border-color: darkblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 article figure img{
     width: 100%;
@@ -17,14 +15,16 @@ body{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding-bottom: 50px;
+    border: #BE4B7F;
+    border-width: 2px;
 }
-#footer{
+.footer{
     color:#3B1B1B;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: smaller;
     text-align: center;
-    padding-bottom: 10px;
-    border-bottom: #3B1B1B;
+    padding-top: 10px;
+    clear: both;
 }
 figcaption{
     padding: 5px;
@@ -42,14 +42,16 @@ ul{
     border-color: #3B1B1B;
 }
 .photo,
-.text,{
-    float: left;
+.text{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin-left: 25px;
+    padding-left: 25px;
 }
 .photo{
     width: 40%;
+    float: left;
 }
 .text{
     width: 60%;
+    float: left;
+    margin-right: 40px;
 }
