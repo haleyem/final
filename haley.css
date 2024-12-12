@@ -44,7 +44,7 @@ ul{
 .photo,
 .text,{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    padding: 5px;
+    padding-left: 25px;
 }
 .photo{
     width: 40%;
