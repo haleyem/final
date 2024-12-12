@@ -16,10 +16,10 @@ header{
 #header{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    padding-bottom: 50px;
-    border: solid;
-    border-color: #BE4B7F;
-    border-width: 2px;
+    padding-bottom: 30px;
+    border-bottom: solid;
+    border-bottom-color: #BE4B7F;
+    border-bottom-width: 2px;
 }
 .footer{
     color:#3B1B1B;
@@ -57,10 +57,7 @@ ul{
     width: 60%;
 }
 @media screen and  (min-width: 320px) {
-    .text {
-        display: 33%;
-    }
-    .photo{
+    .photo {
         display: none;
     }
 }
