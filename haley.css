@@ -56,7 +56,7 @@ ul{
 .text{
     width: 60%;
 }
-@media screen and  (min-width: 320px) {
+@media screen and  (max-width: 320px) {
     .photo {
         display: none;
     }
