@@ -34,16 +34,12 @@ figcaption{
     padding: 5px;
     text-align: center;
 }
-nav ul li{
+.nav{
     display: inline;
-    border-bottom: 1px;
-    border-color: azure;
 }
 nav ul{
     list-style-type: none;
     font-size: medium;
-    border: 2px;
-    border-color: #3B1B1B;
 }
 .photo,
 .text{
