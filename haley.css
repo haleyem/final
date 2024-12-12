@@ -58,6 +58,7 @@ ul{
 }
 .lists{
     list-style-type: circle;
+    display: inline-block;
 }
 @media screen and  (max-width: 320px) {
     .photo {
