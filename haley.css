@@ -42,7 +42,7 @@ ul{
 .text,
 .sidebar{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    padding-right: 25px;
+    padding: 5px;
 }
 .photo{
     width: 40%;
