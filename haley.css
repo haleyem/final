@@ -11,7 +11,7 @@ body{
     color: #2A1422;
 }
 header{
-    border: 2px;
+    border: solid;
     border-color: #BE4B7F;
     border-width: 2px;
 }
