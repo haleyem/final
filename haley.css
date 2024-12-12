@@ -1,7 +1,6 @@
 .main container{
     max-width: 900px;
     margin: auto;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 article figure img{
     width: 100%;
@@ -11,12 +10,14 @@ body{
     background-color: #D4C5E7;
     color: #2A1422;
 }
+header{
+    border-color: #BE4B7F;
+    border-width: 2px;
+}
 #header{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding-bottom: 50px;
-    border: #BE4B7F;
-    border-width: 2px;
 }
 .footer{
     color:#3B1B1B;
@@ -24,6 +25,7 @@ body{
     font-size: smaller;
     text-align: center;
     padding-top: 10px;
+    padding-bottom: 15px;
     clear: both;
 }
 figcaption{
