@@ -11,14 +11,15 @@ body{
     color: #2A1422;
 }
 header{
-    border: solid;
-    border-color: #BE4B7F;
-    border-width: 2px;
+   
 }
 #header{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding-bottom: 50px;
+    border: solid;
+    border-color: #BE4B7F;
+    border-width: 2px;
 }
 .footer{
     color:#3B1B1B;
