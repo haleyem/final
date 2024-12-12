@@ -20,8 +20,7 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: smaller;
     text-align: center;
-    padding-bottom: 10px;
-    border-bottom: #3B1B1B;
+    padding-top: 10px;
     clear: both;
 }
 figcaption{
@@ -40,8 +39,7 @@ ul{
     border-color: #3B1B1B;
 }
 .photo,
-.text,
-.sidebar{
+.text,{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 5px;
 }
@@ -50,10 +48,6 @@ ul{
     float: left;
 }
 .text{
-    width: 40%;
+    width: 60%;
     float: left;
-}
-.sidebar{
-    width: 20%;
-    float: right;
 }

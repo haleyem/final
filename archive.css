@@ -42,8 +42,7 @@ ul{
     border-color: #3B1B1B;
 }
 .photo,
-.text,
-.sidebar{
+.text,{
     float: left;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-left: 25px;
@@ -52,14 +51,5 @@ ul{
     width: 40%;
 }
 .text{
-    width: 40%;
-}
-.sidebar{
-    width: 20%;
-}
-.foot{
-    padding-bottom: 10px;
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
+    width: 60%;
 }
