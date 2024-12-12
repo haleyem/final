@@ -17,7 +17,8 @@ body{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding-bottom: 50px;
-    border: #BE4B7F;
+    border: 2px;
+    border-color: #BE4B7F;
     border-width: 2px;
 }
 .footer{
@@ -47,13 +48,11 @@ ul{
 .text{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding-left: 25px;
+    float: left;
 }
 .photo{
     width: 40%;
-    float: left;
 }
 .text{
     width: 60%;
-    float: left;
-    margin-right: 40px;
 }
