@@ -46,13 +46,11 @@ ul{
 .photo,
 .text{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    padding-left: 25px;
+    float:left;
 }
 .photo{
     width: 40%;
-    float: left;
 }
 .text{
     width: 60%;
-    float: left;
 }
